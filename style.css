@@ -1,0 +1,38 @@
+body {
+  font-family: system-u;
+  background: #f06d06;
+  /*color: white;*/
+  text-align: center;
+}
+
+.coolTitle {
+  text-align: center;
+  font-family: 'Oswald', Helvetica, sans-serif;
+  letter-spacing: 4px;
+  word-spacing: -8px;
+  color: tomato;
+  text-shadow: 
+    -1px -1px 0 firebrick,
+    -2px -2px 0 firebrick,
+    -3px -3px 0 firebrick,
+    -4px -4px 0 firebrick,
+    -5px -5px 0 firebrick,
+    -6px -6px 0 firebrick,
+    -7px -7px 0 firebrick,
+    -8px -8px 0 firebrick,
+    -30px 20px 40px dimgrey;
+}
+
+.btn-custom {
+	font-weight: 700;
+	border-radius: 300px;
+	padding: 1rem 2rem;
+	text-transform: uppercase;
+	background-color: yellow;
+}
+
+.btn-custom:hover {
+	background-color: violet;
+}
+
+
